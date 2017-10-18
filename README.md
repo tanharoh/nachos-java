@@ -1,3 +1,3 @@
 # nachos-java 
-### Operating System project berkeley cs162
+### Operating System Eclipse project berkeley cs162
 
